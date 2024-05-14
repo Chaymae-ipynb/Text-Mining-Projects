@@ -8,9 +8,9 @@ This repository hosts two text mining projects:
 ### Features
 - Spelling Correction: Employs phonetic matching and distance metrics for spelling suggestions.
 Integration Capability: Designed for integration into various platforms to enhance functionality.
--Spam Detection Models: Uses Naive Bayes, Logistic Regression, and SVM for spam identification.
+- Spam Detection Models: Uses Naive Bayes, Logistic Regression, and SVM for spam identification.
 Advanced Feature Engineering: Incorporates Count Vectorization and TF-IDF Vectorization with features such as document length, digit count, and non-word character count.
--Model Evaluation: Utilizes ROC-AUC scores for evaluating model performance.
+- Model Evaluation: Utilizes ROC-AUC scores for evaluating model performance.
 
 #### Libraries Stack
 NLTK
